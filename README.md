@@ -4,7 +4,7 @@
 **A game by Samuel Tang (3d artist, designer, programmer) & Sunrui Lu (composer, audio engineer, programmer).**  
 \
 Watch [Trailer](https://youtu.be/51v7DtGajn0 ) | [Gameplay](https://youtu.be/nWgCjFV2UbI)  
-Download [Windows](https://github.com/The-Night-After/TheNightAfter/releases/tag/v0) | [Mac]()   
+Download [Windows](https://github.com/The-Night-After/TheNightAfter/releases/tag/v0-windows) | [Mac](https://github.com/The-Night-After/TheNightAfter/releases/tag/v0-mac)   
 
 
 https://github.com/The-Night-After/TheNightAfter/assets/26547344/736f7df9-3ea7-4af7-aff9-73e5043b06e8

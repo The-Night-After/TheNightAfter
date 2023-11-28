@@ -5,6 +5,8 @@
 \
 Watch [Trailer](https://youtu.be/51v7DtGajn0 ) | [Gameplay](https://youtu.be/nWgCjFV2UbI)  
 Download [Windows](https://github.com/The-Night-After/TheNightAfter/releases/tag/v0-windows) | [Mac](https://github.com/The-Night-After/TheNightAfter/releases/tag/v0-mac)   
+* run on windows: unzip files, double-click `The Night After - v0` to play!
+* run on mac: open the terminal app, drag unzipped demo to the terminal app icon on your dock, in terminal type `cd Contents/MacOS`, hit enter, then type `chmod -R 777 "The Night After - v0"`, again hit enter, this unlocks permission to open the application, double-click on the demo app to play!
 
 
 https://github.com/The-Night-After/TheNightAfter/assets/26547344/736f7df9-3ea7-4af7-aff9-73e5043b06e8
